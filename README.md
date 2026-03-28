@@ -1,8 +1,10 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff4d6d,7209b7&height=220&section=header&text=TikTok%20Clone&fontSize=70&desc=Built%20with%20React%20%26%20Vite)
+# 🎵 TikTok-Style React Video Player
 
-# 📱 A High-Fidelity Short-Form Video Experience
+**A high-fidelity, mobile-first short-form video experience built for the modern web.**
+
+<br />
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
