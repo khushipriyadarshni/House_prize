@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=220&section=header&text=TikTok%20Clone&fontSize=70&fontAlignY=35&desc=Built%20with%20React%20%26%20Vite&descAlignY=55" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=ff4d6d,7209b7&height=220&section=header&text=TikTok%20Clone&fontSize=70&desc=Built%20with%20React%20%26%20Vite)
 
 # 📱 A High-Fidelity Short-Form Video Experience
 
